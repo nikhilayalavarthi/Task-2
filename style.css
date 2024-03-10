@@ -246,7 +246,7 @@ a{
 }
 .right4{
     position: absolute;
-    bottom:7%;
+    bottom:6%;
     right:22.5%;
 }
 .p4{
@@ -268,7 +268,7 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     font-size:14px; 
     color:black;
-    top:79%;
+    top:79.5%;
     right:22.5%;
     position: absolute; 
 }
@@ -276,7 +276,7 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     font-size:14px; 
     color:black;
-    bottom: 4%;
+    bottom: 3%;
     right:22.5%;
     position: absolute; 
 }
