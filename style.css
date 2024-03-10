@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+header{
+    margin-left: 90px;
+    margin-right: 340px;
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  
+}
+a{
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.a1{
+    border-radius: 20px;
+    background-color: red;
+    color: black;
+    padding: 5px;
+}
+.img1{ /*image */
+    float: right;
+    width: 525px;
+    
+    margin-right: 200px;
+   
+}
+.im1{ 
+    float: left;
+    margin-left: 95px;
+    margin-top: 20px;
+    font-size:35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+   
+}
+.im11{
+    color: red;
+}
+.im12{
+    margin-top: 25px;
+    color: black;
+    opacity: 0.8;
+    margin-left: 95px;
+
+}
+.im13{
+    border-radius: 18px;
+    background-color: red;
+    color: white;
+    margin-left: 95px;
+    padding: 8px;
+  
+}
+.im14{
+    color: red;
+    margin:0 5px;
+    border: 1px solid red;
+    border-radius: 18px;
+    padding: 8px;
+   
+}
+
+.cointainer{
+    margin-top: 180px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 6px;
+    margin-left: 95px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 150px ;
+    
+}
+.cointainer1{
+    border: 0px ;
+    margin: auto;
+    height: 372px;
+    padding: 16px;
+    box-shadow: rgba(0,0,0,0.12) 0px 0px 20px 0px;
+    border-radius: 8px;
+    width: 255px;
+    margin-bottom: 10px;
+}
+.center{ /*image*/
+    justify-items: center;
+    width: 255px;
+    border-radius: 18px;
+    margin-bottom: 10px;
+}
+
+.font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 8px;
+    opacity: 0.7;
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+.font1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+    opacity: 0.9;
+    font-size: 13px;
+}
+.font2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 25px;
+    opacity: 0.7;
+    margin-bottom: 70px;
+    font-size: 13px;
+    text-align: center;
+}
+.f1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-left: 100px;
+}
+
